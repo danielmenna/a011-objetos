@@ -22,4 +22,4 @@ console.log(filme.elenco.slice(-1))
 //c) Qual o código para exibir o array com **todas** as transmissões de hoje?
 console.log(filme.transmissoesHoje)
 //d) Qual o código para exibir o **horário** de transmissão do filme no `Canal Brasil`?
-console.log(filme.transmissoesHoje[2].horario)
+console.log(filme.transmissoesHoje[1].horario)
